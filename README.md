@@ -10,9 +10,6 @@ This repository is dedicated to tracking and analyzing literature in the fields 
 | Priority | Category | Year | Key Title / Research Focus | Source |
 | :---: | :--- | :---: | :--- | :---: |
 | 🔴 | **Sobol'** | 2024 | Variance-based SA for high-dimensional models | [DOI Link] |
-| 🟡 | **Morris** | 2023 | Advanced screening methods for computational efficiency | [DOI Link] |
-| 🟡 | **UA** | 2022 | Quantifying uncertainty in complex software frameworks | [DOI Link] |
-| 🔵 | **Review** | 2024 | State-of-the-art in Global Sensitivity Analysis | [DOI Link] |
 
 **Legend:**
 - 🔴 **High**: Critical for my current paper/methodology.
