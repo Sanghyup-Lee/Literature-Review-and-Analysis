@@ -1,6 +1,3 @@
-# Literature-Review-and-Analysis
-Literature review.
-
 # 📚 Literature Review & Research Inbox
 
 This repository is dedicated to tracking and analyzing literature in the fields of **Global Uncertainty Analysis (UA)** and **Sensitivity Analysis (SA)**. It serves as a knowledge base for my PhD dissertation and future postdoctoral research.
