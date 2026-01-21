@@ -6,3 +6,14 @@
 - **Review Date:** 2026-01-21
 
 ---
+## Summary
+Purpose to read: What is GUSA
+
+Objective: 
+
+---
+## Sentences for citation
+
+- Current mathematical modeling approaches typically use either single-parameter or local sensitivity analyses. However, these methods do not accurately assess uncertainty and sensitivity in the system as, by default, they hold all other parameters fixed at baseline values.
+- Uncertainty analysis (UA) is performed to investigate the uncertainty in the model output that is generated from uncertainty in parameter inputs. Sensitivity analysis (SA) naturally follows UA as it assesses how variations in model outputs can be apportioned, qualitatively or quantitatively, to different input sources (Saltelli et al., 2000).
+- 
