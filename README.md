@@ -1,28 +1,6 @@
 # 📚 Literature Review & Research Inbox
 
-This repository is dedicated to tracking and analyzing literature in the fields of **Global Uncertainty Analysis (UA)** and **Sensitivity Analysis (SA)**. It serves as a knowledge base for my PhD dissertation and future postdoctoral research.
-
----
-
-## 📥 Research Inbox (To-Read List)
-*Current backlog of papers to be reviewed. Priority is assigned based on relevance to my ongoing first-author manuscript.*
-
-| Priority | Category | Year | Key Title / Research Focus | Source |
-| :---: | :--- | :---: | :--- | :---: |
-| 🔴 | **Sobol'** | 2024 | Variance-based SA for high-dimensional models | [DOI Link] |
-
-**Legend:**
-- 🔴 **High**: Critical for my current paper/methodology.
-- 🟡 **Medium**: Scheduled for upcoming reading.
-- 🔵 **Idea**: General interest or future research direction.
-
----
-
-## ✅ Completed Reviews
-*Summaries and critical analyses of papers I have finished reading. Click the links to view the detailed Markdown reports.*
-
-- [x] **[2023_Analysis_Framework.md](./reviews/2023_Analysis_Framework.md)**: Comparative study of SA techniques.
-- [ ] *Coming soon: Analysis of Morris screening in hydrological modeling.*
+This repository is dedicated to tracking and analyzing literature reviews for research projects. It serves as a knowledge base for my PhD dissertation and future postdoctoral research.
 
 ---
 
@@ -32,6 +10,4 @@ This repository is dedicated to tracking and analyzing literature in the fields 
 - `/assets`: Diagrams and mathematical summaries created during the review process.
 
 ---
-## 🎯 Goals for Feb 2026
-- [ ] Complete at least 2 detailed peer-review style summaries.
-- [ ] Sync software implementations on GitHub with literature findings.
+
