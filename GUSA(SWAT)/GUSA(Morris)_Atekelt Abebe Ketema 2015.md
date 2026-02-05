@@ -53,14 +53,33 @@
     1) mean(u): sensitivity strength between the i-th input variable and the output response due to all first and high order effects that are associated with that variable (when high, high sensitivity)
     2) standard deviation(sigma): possible interactions with other variables and/or that the variable has a non-linear effect on the output
   - Climate scenarios: 20, 40, 60 years ranked scnarios were selected
-  - Policy input variables: Three primary system policies (RCCs, TSCs, security of supply threshold)
-    1) RCC: 
-- Statistical tests/models:
+  - Policy input variables: Three primary system policies (RRCs, TSCs, security of supply threshold)
+    1) Restriction rule curves (RRC): When reservoir storage level is below the Upper curve, restrict the policy to use of water: **11 variables**
+    2) Target storage curves (TSC): How to regulate storage for each reservoir in the given total storage. (Total to **six** reservoir using a **five-point** curve in Barwon)
+    3) Security of supply: standard of system failure, supply reliabilty threshold. (80~98% no restriction is reliable in this study)
+- Statistical tests/models: 
 ---
 
 # Results (Key Findings)
-- 
-- 
+1) u, u*, sigma results by table
+   Table composition (Morris index, Variable (14), Scenarios)
+   - Two most important: supply reliability and the minimum storage thresholds: since it is directly influence the system failure. **Table 7: rank table**
+   - high sigma
+   - high u and sigma
+   - common thing in all area
+   - simulation length increases, a drought is more likely to be caputred in the climate scenario making the minimum storage threshold critical.
+2) Grouped input variable experiments
+   - Group 1(RRC, Target, Security): security criteria is the most important
+   - Group 2 (7 groups): All groups show significant interaction, indicated by non-zero sigma rsults.
+   - 
+3) Discussion
+   -  **Supply reliability** and the minimum **storage thresholds** are the most important
+   -  **upper RRC position**, **upper RRC curvature variables**, **target curves**, **base demand** also importance
+  1) Correlation: supply reliability is high correlate, sotrage threshold is not correlated.
+        - importance of inputs changed under different scenarios: only one climate scenario makes more optimal.
+2) most inputs show non-monotonic relationship: positive change can make positive or negative change
+3) if one is suitbale for scenario, other may not be suitable for another scenario
+4) 
 - 
 ---
 
@@ -70,6 +89,5 @@
 ---
 
 # Implications / My Notes
-- Why it matters:
-- How I can use it:
-- Follow-up questions:
+- I can use rank system to represent results about Morris
+- 
